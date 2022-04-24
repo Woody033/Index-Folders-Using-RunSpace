@@ -1,2 +1,1 @@
-# Index-Folders
- Index local folder using RunSpace
+# Index Local Folders to XML File with RunSpace
