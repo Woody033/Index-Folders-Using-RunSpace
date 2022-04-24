@@ -1,2 +1,2 @@
 # Index-Folders
- Index local folder using RunSpace & SQLite
+ Index local folder using RunSpace
